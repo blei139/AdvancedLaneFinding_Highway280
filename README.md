@@ -14,4 +14,5 @@ Instruction to do the advanced lane finding and Yolo car detection:
 2) Run YoloCarDetection.ipynb in Anaconda to identify the cars next to the ego car to generate the combined advanced lane finding and 
    car detection video.
 
-
+Youtube video link:
+https://youtu.be/yUzXih0IYdc
